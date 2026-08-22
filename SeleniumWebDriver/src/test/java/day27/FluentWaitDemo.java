@@ -21,8 +21,7 @@ public class FluentWaitDemo {
 		// Fluent Wait Declaration
 		Wait<WebDriver> mywait = new FluentWait<WebDriver>(driver)
 				.withTimeout(Duration.ofSeconds(10))
-				.pollingEvery(Duration.ofSeconds(2))
-				.ignoring(NoSuchElementException.class);
+				.pollingEvery(Duration.ofSeconds(2)).ignoring(NoSuchElementException.class);
 
 		driver.get("https://tutorialsninja.com/demo/");
 		driver.manage().window().maximize();
