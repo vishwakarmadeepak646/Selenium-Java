@@ -19,11 +19,10 @@ public class Assignment {
 		
 		WebElement popup = driver.findElement(By.xpath("//div[@class='cb-close']"));
 		
-		if(popup.isDisplayed()) {
-			popup.click();
-		}
+		/*
+		 * if(popup.isDisplayed()) { popup.click(); }
+		 */
 			
-			//div[@class='cb-close']
 		System.out.println("Go forward");
 		WebElement sourceBank = driver.findElement(By.xpath("//li[@id='credit2']//a"));
 		WebElement targetBank = driver.findElement(By.xpath("//ol[@id='bank']"));
