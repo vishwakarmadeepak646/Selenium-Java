@@ -29,7 +29,7 @@ public class HiddenDropdown {
 		driver.findElement(By.xpath("//body/div[@id='app']/div[@class='oxd-layout orangehrm-upgrade-layout']/div[@class='oxd-layout-container']/div[@class='oxd-layout-context']/div[@class='orangehrm-background-container']/div[@class='oxd-table-filter']/div[@class='oxd-table-filter-area']/form[@class='oxd-form']/div[@class='oxd-form-row']/div[@class='oxd-grid-4 orangehrm-full-width-grid']/div[6]/div[1]/div[2]/div[1]/div[1]")).click();
 		
 		// selecting value from dropdown
-		//driver.findElement(By.xpath("//div[@role='listbox']//div[15]")).click();
+		driver.findElement(By.xpath("//div[@role='listbox']//div[15]")).click();
 		
 		//printing all option of dropdown
 		
