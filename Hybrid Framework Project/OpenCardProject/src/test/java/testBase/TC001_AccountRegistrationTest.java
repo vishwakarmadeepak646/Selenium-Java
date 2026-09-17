@@ -1,15 +1,8 @@
 package testBase;
 
-import java.time.Duration;
-
-import org.apache.commons.lang3.RandomStringUtils;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import BaseClasses.BaseClass;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 
@@ -17,29 +10,49 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 
 	@Test
 	public void verify_account_registration() {
+		try {
+			logger.info("******Starting TC001_AccountRegistrationTest******");
+			HomePage phome = new HomePage(driver);
 
-		HomePage phome = new HomePage(driver);
+			logger.info("Clicking on My Account");
+			phome.clickMyAccount();
+			logger.info("Clicking on Register");
+			phome.clickRegister();
 
-		phome.clickMyAccount();
-		phome.clickRegister();
+			AccountRegistrationPage acpage = new AccountRegistrationPage(driver);
 
-		AccountRegistrationPage acpage = new AccountRegistrationPage(driver);
+			logger.info("Entering the details of Register form");
+			acpage.setFirstName(randomString());
+			acpage.setLastName(randomString());
+			acpage.setEmail(randomString() + "@gmail.com");
+			acpage.setTelephone(randomNumeric());
 
-		acpage.setFirstName(randomString());
-		acpage.setLastName(randomString());
-		acpage.setEmail(randomString() + "@gmail.com");
-		acpage.setTelephone(randomNumeric());
+			String pass = randomAlphaNumeric();
 
-		String pass = randomAlphaNumeric();
+			acpage.setPassword(pass);
+			acpage.setCnfPassword(pass);
+			logger.info("Clicking on policy check-box");
+			acpage.clickPolicy();
+			logger.info("Submmitting Register form");
+			acpage.clickSubmt();
 
-		acpage.setPassword(pass);
-		acpage.setCnfPassword(pass);
-		acpage.clickPolicy();
-		acpage.clickSubmt();
+			String succText = acpage.compareSuccessText(); // "Your Account Has Been Created!
 
-		String succText = acpage.compareSuccessText(); // "Your Account Has Been Created!
+			if (succText.equals("Your Account Has Been Created!")) {
+				Assert.assertTrue(true);
+			} else {
+				logger.error("Test Failed...");
+				logger.debug("Debug logs...");
+				Assert.assertTrue(false);
+			}
 
-		Assert.assertEquals("Your Account Has Been Created!", succText);
+			logger.info("Validating expected message");
+
+		} catch (Exception e) {
+
+			Assert.fail();
+		}
+		logger.info("******Finished TC001_AccountRegistrationTest******");
 
 	}
 
