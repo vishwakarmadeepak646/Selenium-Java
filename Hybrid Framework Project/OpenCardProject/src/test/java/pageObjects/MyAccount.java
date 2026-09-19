@@ -10,15 +10,15 @@ public class MyAccount extends BasePage {
 		super(driver);
 	}
 
-	@FindBy(xpath = "//a[normalize-space()='Account']")
-	WebElement headerText;
+	@FindBy(xpath = "//a[normalize-space()='Change your password']")
+	WebElement changePasswordText;
 
 	@FindBy(xpath = "(//a[@class='list-group-item'][normalize-space()='Logout'])[1]")
 	WebElement logout;
 
 	public boolean isMyAccountDisplayed() {
 		try {
-			return headerText.isDisplayed();
+			return changePasswordText.isDisplayed();
 		} catch (Exception e) {
 			return false;
 		}

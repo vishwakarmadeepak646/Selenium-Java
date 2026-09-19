@@ -8,7 +8,7 @@ import pageObjects.HomePage;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
 
-	@Test
+	@Test(groups = { "sanity", "master" })
 	public void verify_account_registration() {
 		try {
 			logger.info("******Starting TC001_AccountRegistrationTest******");
@@ -49,7 +49,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 			logger.info("Validating expected message");
 
 		} catch (Exception e) {
-
+			e.printStackTrace();
 			Assert.fail();
 		}
 		logger.info("******Finished TC001_AccountRegistrationTest******");

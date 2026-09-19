@@ -4,14 +4,18 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="sanity"/>
+        <exclude name="regression"/>
+      </run>
+    </groups>
     <classes>
-      <class name="testBase.TC003_Login_DDT">
+      <class name="testBase.TC001_AccountRegistrationTest">
         <methods>
-          <include name="loginDDT" invocation-numbers="1 2 3 4"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
+          <include name="verify_account_registration"/>
         </methods>
-      </class> <!-- testBase.TC003_Login_DDT -->
+      </class> <!-- testBase.TC001_AccountRegistrationTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [MasterSuite] -->

@@ -10,7 +10,7 @@ import pageObjects.MyAccount;
 
 public class TC002_LoginAccountTest extends BaseClass {
 
-	@Test
+	@Test(groups= {"sanity", "regression","master"})
 	public void verify_Login() {
 
 		logger.info("*********TC002_LoginAccountTest Execution started**********");
@@ -37,6 +37,7 @@ public class TC002_LoginAccountTest extends BaseClass {
 			Assert.assertTrue(val);
 			logger.info("User loing successfully");
 		} catch (Exception e) {
+			e.printStackTrace();
 			logger.info("Login failed");
 			logger.debug("Debus logs...");
 			Assert.fail();

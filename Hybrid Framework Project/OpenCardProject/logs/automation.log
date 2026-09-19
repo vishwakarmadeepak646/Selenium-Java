@@ -611,3 +611,687 @@
 01:03:07.893 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
 01:03:09.522 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
 01:03:09.522 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+22:40:58.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+22:41:15.876 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:41:15.880 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:41:17.337 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:41:17.800 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:41:21.800 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+22:41:21.828 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:41:21.828 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:41:22.739 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:41:23.711 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:41:27.439 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:41:27.440 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:41:28.096 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:41:28.523 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:41:40.924 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:41:40.925 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:41:41.720 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:41:42.085 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:41:54.488 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:41:54.488 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:41:55.229 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:41:55.562 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:41:58.707 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+22:46:47.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+22:46:55.117 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:46:55.117 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:46:56.001 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:46:56.497 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:46:58.884 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+22:46:58.910 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:46:58.912 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:46:59.390 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:46:59.769 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:47:01.645 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:47:01.647 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:47:02.642 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:47:03.402 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:47:15.868 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:47:15.868 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:47:16.367 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:47:16.699 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:47:27.828 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:47:27.829 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:47:28.567 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:47:29.105 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:47:30.796 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+22:56:41.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+22:56:48.326 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:56:48.326 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:56:49.054 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:56:49.441 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:56:51.794 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+22:56:51.806 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:56:51.806 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:56:52.199 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:56:52.485 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:56:54.420 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:56:54.421 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:56:54.803 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:56:55.103 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:57:06.313 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:57:06.314 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:57:06.736 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:57:07.043 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:57:18.373 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+22:57:18.373 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+22:57:18.843 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+22:57:19.034 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+22:57:20.633 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:01:52.804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:01:58.831 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:01:58.831 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:01:59.587 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:02:00.079 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:02:02.435 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:02:02.449 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:02:02.449 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:02:03.097 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:02:03.674 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:02:05.648 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:02:05.648 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:02:06.047 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:02:06.283 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:02:17.278 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:02:17.278 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:02:17.723 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:02:18.072 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:02:29.434 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:02:29.434 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:02:29.809 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:02:30.082 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:02:31.563 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:05:15.732 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:05:21.430 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:05:21.430 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:05:22.141 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:05:22.622 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:05:25.207 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:05:25.226 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:05:25.229 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:05:25.750 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:05:26.120 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:05:27.813 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:05:27.813 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:05:28.340 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:05:28.727 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:05:39.899 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:05:39.899 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:05:40.644 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:05:41.096 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:05:51.986 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:05:51.986 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:05:52.381 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:05:52.665 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:05:54.140 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:07:13.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:07:19.380 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:07:19.380 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:07:20.087 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:07:20.559 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:07:23.648 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:07:23.661 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:07:23.662 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:07:23.997 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:07:24.228 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:07:25.870 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:07:25.870 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:07:26.423 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:07:26.651 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:07:37.883 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:07:37.883 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:07:38.401 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:07:38.783 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:07:49.769 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:07:49.769 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:07:50.158 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:07:50.310 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:07:51.944 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:10:00.632 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:10:06.260 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:10:06.260 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:10:06.872 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:10:07.260 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:10:09.697 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:10:09.702 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:10:09.702 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:10:10.228 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:10:10.421 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:10:13.056 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:10:13.056 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:10:13.790 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:10:13.999 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:10:24.122 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:10:24.122 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:10:24.421 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:10:24.650 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:10:34.824 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:10:34.824 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:10:35.204 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:10:35.323 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:10:37.170 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:12:12.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:12:17.761 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:12:17.761 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:12:18.372 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:12:18.798 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:12:20.733 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:12:20.741 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:12:20.742 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:12:21.160 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:12:21.501 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:12:23.053 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:12:23.054 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:12:23.550 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:12:23.783 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:12:34.683 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:12:34.684 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:12:35.321 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:12:35.650 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:12:47.021 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:12:47.021 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:12:47.369 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:12:47.690 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:12:49.157 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:19:17.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:19:22.331 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:19:22.332 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:19:23.013 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:19:23.396 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:19:24.988 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:19:25.008 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:19:25.009 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:19:25.446 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:19:25.720 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:19:27.161 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:19:27.161 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:19:27.623 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:19:27.822 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:19:38.692 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:19:38.693 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:19:39.698 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:19:39.898 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:19:49.992 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:19:49.997 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:19:49.997 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:19:50.562 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:19:50.853 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:19:52.241 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:38:54.607 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:40:21.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:41:04.811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:41:12.719 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+23:41:12.794 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+23:41:12.926 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+23:41:13.532 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+23:41:14.204 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+23:41:14.321 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+23:41:16.610 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+23:41:16.610 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+23:41:20.664 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+23:41:20.665 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+23:41:20.878 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+23:41:21.373 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+23:41:21.695 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+23:41:22.979 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+23:41:22.979 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+23:41:28.597 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:41:28.597 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:41:29.215 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:41:29.458 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:41:30.870 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:41:30.884 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:41:30.889 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:41:31.263 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:41:31.449 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:41:33.377 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:41:33.377 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:41:33.975 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:41:34.295 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:41:45.195 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:41:45.196 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:41:46.072 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:41:46.344 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:42:00.043 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:42:00.048 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:42:00.049 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:42:00.655 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:42:00.937 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:42:03.428 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:43:15.220 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:46:13.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:48:34.005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:48:38.313 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+23:48:38.357 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+23:48:38.521 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+23:48:39.369 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+23:48:40.530 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+23:48:40.592 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+23:48:41.861 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+23:48:41.861 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+23:48:44.753 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+23:48:44.753 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+23:48:44.974 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+23:48:45.378 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+23:48:45.793 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+23:48:46.851 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+23:48:46.851 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+23:49:23.291 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:49:26.448 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+23:49:26.458 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+23:49:26.697 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+23:49:27.077 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+23:49:27.370 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+23:49:29.024 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+23:49:29.024 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+23:49:59.266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:51:23.119 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:51:26.430 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+23:51:26.477 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+23:51:26.598 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+23:51:27.183 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+23:51:27.930 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+23:51:28.008 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+23:51:29.267 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+23:51:29.267 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+23:51:32.118 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+23:51:32.120 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+23:51:32.277 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+23:51:32.622 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+23:51:32.911 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+23:51:34.348 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+23:51:34.348 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+23:52:24.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+23:52:27.247 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+23:52:27.351 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+23:52:27.589 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+23:52:28.131 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+23:52:28.942 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+23:52:29.016 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+23:52:30.074 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+23:52:30.074 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+23:52:32.968 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+23:52:32.968 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+23:52:33.301 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+23:52:33.653 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+23:52:33.930 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+23:52:35.450 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+23:52:35.450 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+23:52:41.375 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:52:41.376 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:52:42.039 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:52:42.397 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:52:44.625 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:52:44.647 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:52:44.648 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:52:45.041 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:52:45.228 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:52:47.235 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:52:47.235 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:52:48.122 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:52:48.376 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:52:59.930 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:52:59.931 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:53:00.819 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:53:01.014 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:53:12.032 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+23:53:12.042 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+23:53:12.042 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+23:53:12.759 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+23:53:13.001 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+23:53:14.483 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+13:49:43.659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+13:50:04.278 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+13:50:04.318 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+13:50:04.462 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+13:50:05.447 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+13:50:06.841 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+13:50:07.028 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+13:50:09.556 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+13:50:09.556 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+13:50:13.964 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+13:50:13.968 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+13:50:14.443 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+13:50:15.190 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+13:50:15.670 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+13:50:18.697 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+13:50:18.697 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+13:50:25.663 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+13:50:25.663 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+13:50:26.359 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+13:50:26.790 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+13:50:29.184 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+13:50:29.221 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+13:50:29.221 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+13:50:29.693 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+13:50:30.058 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+13:50:33.534 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+13:50:33.544 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+13:50:35.035 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+13:50:35.802 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+13:50:47.617 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+13:50:47.617 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+13:50:48.138 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+13:50:48.482 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+13:50:58.685 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+13:50:58.696 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+13:50:58.697 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+13:50:59.214 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+13:50:59.554 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+13:51:01.748 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+13:55:21.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+13:58:15.659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+14:00:52.889 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:19:24.463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:20:32.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:21:00.341 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:21:31.885 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:21:38.517 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+15:21:38.592 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+15:21:38.888 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+15:21:39.594 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+15:21:40.477 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+15:21:40.600 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+15:21:42.007 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+15:21:42.007 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+15:21:44.857 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+15:21:44.857 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+15:21:45.035 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+15:21:45.546 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+15:21:46.118 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+15:21:47.426 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+15:21:47.426 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+15:21:53.635 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:21:53.638 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:21:54.353 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:21:54.734 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:21:56.587 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:21:56.612 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:21:56.612 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:21:57.131 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:21:57.473 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:21:59.100 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:21:59.100 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:21:59.555 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:21:59.837 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:22:10.821 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:22:10.823 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:22:11.471 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:22:11.898 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:22:24.067 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:22:24.074 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:22:24.075 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:22:24.524 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:22:24.773 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:22:26.492 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:23:41.383 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:23:45.433 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+15:23:45.632 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+15:23:45.862 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+15:23:46.559 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+15:23:47.340 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+15:23:47.414 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+15:23:48.579 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+15:23:48.579 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+15:23:51.685 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+15:23:51.685 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+15:23:51.868 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+15:23:52.438 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+15:23:52.810 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+15:23:54.091 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+15:23:54.091 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+15:23:59.841 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:23:59.841 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:24:00.614 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:24:01.025 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:24:03.736 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:24:03.757 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:24:03.757 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:24:04.159 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:24:04.436 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:24:06.451 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:24:06.451 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:24:06.862 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:24:07.122 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:24:18.389 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:24:18.389 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:24:18.941 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:24:19.257 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:24:29.402 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:24:29.415 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:24:29.415 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:24:29.815 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:24:30.143 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:24:31.789 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:25:35.497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:25:39.146 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+15:25:39.252 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+15:25:39.466 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+15:25:40.149 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+15:25:40.950 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+15:25:41.047 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+15:25:43.002 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+15:25:43.004 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+15:25:45.683 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+15:25:45.683 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+15:25:45.837 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+15:25:46.279 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+15:25:46.720 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+15:25:48.061 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+15:25:48.061 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+15:25:53.176 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:25:53.176 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:25:53.835 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:25:54.210 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:25:56.760 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:25:56.778 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:25:56.778 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:25:57.187 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:25:57.544 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:25:59.755 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:25:59.755 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:26:00.175 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:26:00.431 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:26:10.793 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:26:10.793 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:26:11.269 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:26:11.571 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:26:22.843 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:26:22.853 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:26:22.853 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:26:23.445 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:26:23.645 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:26:25.437 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:28:49.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:28:53.793 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+15:28:53.885 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+15:28:54.071 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+15:28:54.637 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+15:28:55.688 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+15:28:55.790 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+15:28:57.673 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+15:28:57.673 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+15:29:00.969 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+15:29:00.969 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+15:29:01.260 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+15:29:02.345 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+15:29:02.657 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+15:29:03.853 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+15:29:03.853 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+15:29:29.652 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:33:05.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\master.xml
+
+15:33:09.795 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+15:33:09.896 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on My Account
+15:33:10.378 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on Register
+15:33:11.031 [main] INFO  testBase.TC001_AccountRegistrationTest - Entering the details of Register form
+15:33:11.753 [main] INFO  testBase.TC001_AccountRegistrationTest - Clicking on policy check-box
+15:33:11.822 [main] INFO  testBase.TC001_AccountRegistrationTest - Submmitting Register form
+15:33:13.709 [main] INFO  testBase.TC001_AccountRegistrationTest - Validating expected message
+15:33:13.709 [main] INFO  testBase.TC001_AccountRegistrationTest - ******Finished TC001_AccountRegistrationTest******
+15:33:16.499 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+15:33:16.499 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+15:33:16.699 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+15:33:17.128 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+15:33:17.585 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+15:33:18.953 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+15:33:18.953 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+15:33:24.170 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:33:24.170 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:33:24.854 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:33:25.468 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:33:26.979 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:33:26.996 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:33:26.996 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:33:27.365 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:33:27.648 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:33:29.326 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:33:29.327 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:33:29.708 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:33:30.008 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:33:40.325 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:33:40.325 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:33:40.812 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:33:41.076 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:33:52.078 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:33:52.091 [main] INFO  testBase.TC003_Login_DDT - ***********Execution started for TC003_Login_DDT ************
+15:33:52.091 [main] INFO  testBase.TC003_Login_DDT - Clicking on MyAccount and Login
+15:33:52.490 [main] INFO  testBase.TC003_Login_DDT - Entering credentials
+15:33:52.712 [main] INFO  testBase.TC003_Login_DDT - Click on Login button
+15:33:54.525 [main] INFO  testBase.TC003_Login_DDT - ***********Execution Finished for TC003_Login_DDT ************
+15:35:13.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+15:35:16.803 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution started**********
+15:35:16.803 [main] INFO  testBase.TC002_LoginAccountTest - Click on My Account
+15:35:17.202 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login
+15:35:17.670 [main] INFO  testBase.TC002_LoginAccountTest - Entering credentials
+15:35:17.978 [main] INFO  testBase.TC002_LoginAccountTest - Click on Login button
+15:35:20.087 [main] INFO  testBase.TC002_LoginAccountTest - User loing successfully
+15:35:20.087 [main] INFO  testBase.TC002_LoginAccountTest - *********TC002_LoginAccountTest Execution Finished**********
+15:36:43.362 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+16:01:08.971 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+16:25:02.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+16:25:36.200 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.210 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+16:25:36.221 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.221 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.223 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.223 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+16:25:36.255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+16:25:36.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.259 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:25:36.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.261 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.267 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.267 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.276 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:25:36.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:25:36.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Asus\AppData\Local\Temp\testng-eclipse--276843567\testng-customsuite.xml
+
+16:25:36.335 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+16:25:37.234 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@68044f4: 292 ms
+16:25:37.285 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5286c33a: 50 ms
+16:25:37.358 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4c4748bf: 72 ms
+16:25:37.382 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3c989952: 21 ms
+16:25:37.395 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1951b871: 13 ms
+16:25:37.396 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5c18016b: 0 ms
+16:27:01.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+16:32:44.155 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+16:33:26.794 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
+16:37:11.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Hybrid Framwork Workspace\OpenCardProject\grouping.xml
+
