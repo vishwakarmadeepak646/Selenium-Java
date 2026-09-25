@@ -1,344 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="1" failed="1" skipped="2">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-22T18:20:56 IST" name="Cross-BrowserSuite" finished-at="2026-09-22T18:21:30 IST" duration-ms="33869">
+  <suite started-at="2026-09-25T17:44:15 IST" name="MasterSuite" finished-at="2026-09-25T17:44:39 IST" duration-ms="23118">
     <groups>
       <group name="regression">
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@6bffbc6d]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@39655d3e]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@7dda48d9]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
+        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testCases.TC002_LoginAccountTest@6bffbc6d]" name="verify_Login" class="testCases.TC002_LoginAccountTest"/>
       </group> <!-- regression -->
       <group name="sanity">
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@2b76ff4e]" name="verify_account_registration" class="testBase.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@6bffbc6d]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@386f0da3]" name="verify_account_registration" class="testBase.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@39655d3e]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@3d1848cc]" name="verify_account_registration" class="testBase.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@7dda48d9]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
+        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@2b76ff4e]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
+        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testCases.TC002_LoginAccountTest@6bffbc6d]" name="verify_Login" class="testCases.TC002_LoginAccountTest"/>
       </group> <!-- sanity -->
       <group name="master">
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@2b76ff4e]" name="verify_account_registration" class="testBase.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@6bffbc6d]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@386f0da3]" name="verify_account_registration" class="testBase.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@39655d3e]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
-        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@3d1848cc]" name="verify_account_registration" class="testBase.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@7dda48d9]" name="verify_Login" class="testBase.TC002_LoginAccountTest"/>
+        <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@2b76ff4e]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
+        <method signature="TC002_LoginAccountTest.verify_Login()[pri:0, instance:testCases.TC002_LoginAccountTest@6bffbc6d]" name="verify_Login" class="testCases.TC002_LoginAccountTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2026-09-22T18:20:56 IST" name="firefoxTests" finished-at="2026-09-22T18:20:58 IST" duration-ms="1990">
-      <class name="testBase.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testBase.TC001_AccountRegistrationTest@3d1848cc]" started-at="2026-09-22T18:20:56 IST" name="setUp" finished-at="2026-09-22T18:20:57 IST" duration-ms="1115" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.SessionNotCreatedException">
-            <message>
-              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:115)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:76)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:171)
-at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:653)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:279)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:178)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
-at BaseClasses.BaseClass.setUp(BaseClass.java:70)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:744)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-at java.base/java.lang.Thread.run(Thread.java:842)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@3d1848cc]" started-at="2026-09-22T18:20:57 IST" name="verify_account_registration" finished-at="2026-09-22T18:20:57 IST" duration-ms="0" status="SKIP">
-          <exception class="org.openqa.selenium.SessionNotCreatedException">
-            <message>
-              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:115)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:76)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:171)
-at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:653)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:279)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:178)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
-at BaseClasses.BaseClass.setUp(BaseClass.java:70)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:744)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-at java.base/java.lang.Thread.run(Thread.java:842)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testBase.TC001_AccountRegistrationTest@3d1848cc]" started-at="2026-09-22T18:20:57 IST" name="tearDown" finished-at="2026-09-22T18:20:57 IST" duration-ms="0" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testBase.TC001_AccountRegistrationTest -->
-      <class name="testBase.TC002_LoginAccountTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testBase.TC002_LoginAccountTest@7dda48d9]" started-at="2026-09-22T18:20:57 IST" name="setUp" finished-at="2026-09-22T18:20:58 IST" duration-ms="391" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.SessionNotCreatedException">
-            <message>
-              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:115)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:76)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:171)
-at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:653)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:279)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:178)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
-at BaseClasses.BaseClass.setUp(BaseClass.java:70)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:744)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-at java.base/java.lang.Thread.run(Thread.java:842)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@7dda48d9]" started-at="2026-09-22T18:20:58 IST" name="verify_Login" finished-at="2026-09-22T18:20:58 IST" duration-ms="0" status="SKIP">
-          <exception class="org.openqa.selenium.SessionNotCreatedException">
-            <message>
-              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line 
-Host info: host: 'LAPTOP-6CT277VG', ip: '192.168.0.114'
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: driver.version: unknown
-Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: firefox, platformName: Windows 11, se:remoteUrl: http://localhost:4444/wd/hub}]}]
-Capabilities {browserName: firefox, platformName: Windows 11}
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:115)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:76)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:171)
-at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:653)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:279)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:178)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
-at BaseClasses.BaseClass.setUp(BaseClass.java:70)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:744)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-at java.base/java.lang.Thread.run(Thread.java:842)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_Login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testBase.TC002_LoginAccountTest@7dda48d9]" started-at="2026-09-22T18:20:58 IST" name="tearDown" finished-at="2026-09-22T18:20:58 IST" duration-ms="0" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testBase.TC002_LoginAccountTest -->
-    </test> <!-- firefoxTests -->
-    <test started-at="2026-09-22T18:20:56 IST" name="ChromeTest" finished-at="2026-09-22T18:21:30 IST" duration-ms="33869">
-      <class name="testBase.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testBase.TC001_AccountRegistrationTest@386f0da3]" started-at="2026-09-22T18:20:56 IST" name="setUp" finished-at="2026-09-22T18:21:02 IST" duration-ms="5975" status="PASS">
+    <test started-at="2026-09-25T17:44:15 IST" name="Test" finished-at="2026-09-25T17:44:39 IST" duration-ms="23118">
+      <class name="testCases.TC002_LoginAccountTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginAccountTest@6bffbc6d]" started-at="2026-09-25T17:44:29 IST" name="setUp" finished-at="2026-09-25T17:44:34 IST" duration-ms="5435" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -354,51 +34,17 @@ at java.base/java.lang.Thread.run(Thread.java:842)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_account_registration()[pri:0, instance:testBase.TC001_AccountRegistrationTest@386f0da3]" started-at="2026-09-22T18:21:02 IST" name="verify_account_registration" finished-at="2026-09-22T18:21:13 IST" duration-ms="11616" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: null
-at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.fail(Assert.java:116)
-at testBase.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:53)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:744)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
-at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-at java.base/java.lang.Thread.run(Thread.java:842)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method signature="verify_Login()[pri:0, instance:testCases.TC002_LoginAccountTest@6bffbc6d]" started-at="2026-09-25T17:44:34 IST" name="verify_Login" finished-at="2026-09-25T17:44:38 IST" duration-ms="3717" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testBase.TC001_AccountRegistrationTest@386f0da3]" started-at="2026-09-22T18:21:14 IST" name="tearDown" finished-at="2026-09-22T18:21:24 IST" duration-ms="10420" status="PASS">
+        </test-method> <!-- verify_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginAccountTest@6bffbc6d]" started-at="2026-09-25T17:44:38 IST" name="tearDown" finished-at="2026-09-25T17:44:39 IST" duration-ms="452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testBase.TC001_AccountRegistrationTest -->
-      <class name="testBase.TC002_LoginAccountTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testBase.TC002_LoginAccountTest@39655d3e]" started-at="2026-09-22T18:21:24 IST" name="setUp" finished-at="2026-09-22T18:21:27 IST" duration-ms="2601" status="PASS">
+      </class> <!-- testCases.TC002_LoginAccountTest -->
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@2b76ff4e]" started-at="2026-09-25T17:44:16 IST" name="setUp" finished-at="2026-09-25T17:44:22 IST" duration-ms="6257" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -414,15 +60,15 @@ at java.base/java.lang.Thread.run(Thread.java:842)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Login()[pri:0, instance:testBase.TC002_LoginAccountTest@39655d3e]" started-at="2026-09-22T18:21:27 IST" name="verify_Login" finished-at="2026-09-22T18:21:29 IST" duration-ms="2157" status="PASS">
+        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@2b76ff4e]" started-at="2026-09-25T17:44:22 IST" name="verify_account_registration" finished-at="2026-09-25T17:44:28 IST" duration-ms="5945" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_Login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testBase.TC002_LoginAccountTest@39655d3e]" started-at="2026-09-22T18:21:29 IST" name="tearDown" finished-at="2026-09-22T18:21:30 IST" duration-ms="521" status="PASS">
+        </test-method> <!-- verify_account_registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@2b76ff4e]" started-at="2026-09-25T17:44:28 IST" name="tearDown" finished-at="2026-09-25T17:44:29 IST" duration-ms="574" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testBase.TC002_LoginAccountTest -->
-    </test> <!-- ChromeTest -->
-  </suite> <!-- Cross-BrowserSuite -->
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- MasterSuite -->
 </testng-results>

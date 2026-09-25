@@ -53,6 +53,9 @@ public class BaseClass {
 			else if(os.equalsIgnoreCase("mac")) {
 				capabilities.setPlatform(Platform.MAC);
 			}
+			else if(os.equalsIgnoreCase("linux")) {
+				capabilities.setPlatform(Platform.LINUX);
+			}
 			else {
 				System.out.println("No matching OS");
 				return;
@@ -67,7 +70,7 @@ public class BaseClass {
 			default: System.out.println("No Matching browser"); return;
 			}
 			
-			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
+			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities); // parent of all WebDriver
 		}
 		
 		if(p.getProperty("execution_env").equals("local")){
